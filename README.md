@@ -4,8 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-dhsdesouza-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhsdesouza/)
 
 - 🔭 I’m currently working as Full-Stack Software Engineer
-- ℹ️ Here you will find some of my projects
 - 💬 I speak English, Spanish and Portuguese so feel free to reach out to me in any of those languages
+- ℹ️ Here you will find some of my college and personal projects as well
 
 <div style="margin-bottom: 40px"></div>
 
@@ -33,7 +33,7 @@
 ### Database
 ![Mongo](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
