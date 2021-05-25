@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working as Full-Stack Software Engineer
 - ℹ️ Here you will find some of my projects
+- 💬 I speak English, Spanish and Portuguese so feel free to reach out to me in any of those languages
 
 <div style="margin-bottom: 40px"></div>
 
