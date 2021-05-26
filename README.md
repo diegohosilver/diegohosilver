@@ -15,6 +15,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-512BD4?style=flat&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=flat&logo=vue-dot-js)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs)
@@ -25,6 +26,7 @@
 ![Capacitor](https://img.shields.io/badge/-Capacitor-darkblue?style=flat&logo=capacitor)
 
 ### Backend
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-darkgreen?style=flat&logo=node-dot-js)
 ![C#](https://img.shields.io/badge/-CSharp-0078D4?style=flat&logo=c-sharp)
@@ -34,6 +36,7 @@
 ![Mongo](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql)
+![ORM](https://img.shields.io/badge/ORM-Mongoose%20and%20Entity%20Framework-blue?style=flat)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
