@@ -11,12 +11,15 @@
 
 ## Technologies ⚡
 
+### Languages 
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-CSharp-0078D4?style=flat&logo=c-sharp)
+
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-512BD4?style=flat&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=flat&logo=vue-dot-js)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
@@ -26,10 +29,7 @@
 ![Capacitor](https://img.shields.io/badge/-Capacitor-darkblue?style=flat&logo=capacitor)
 
 ### Backend
-![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-darkgreen?style=flat&logo=node-dot-js)
-![C#](https://img.shields.io/badge/-CSharp-0078D4?style=flat&logo=c-sharp)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net)
 
 ### Database
