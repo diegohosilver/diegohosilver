@@ -41,7 +41,7 @@
 ![ORM](https://img.shields.io/badge/ORM-Mongoose%20and%20Entity%20Framework-blue?style=flat)
 
 ### Cloud
-![Aws](https://img.shields.io/badge/-Amazon Web Services-232f3e?style=flat&logo=amazon-aws)
+![Aws](https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat&logo=amazon-aws)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
