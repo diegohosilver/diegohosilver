@@ -15,6 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/-CSharp-0078D4?style=flat&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-0078D4?style=flat&logo=java)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white)
@@ -29,6 +30,7 @@
 ![Capacitor](https://img.shields.io/badge/-Capacitor-darkblue?style=flat&logo=capacitor)
 
 ### Backend
+![Express](https://img.shields.io/badge/-Express-darkgreen?style=flat&logo=express)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-darkgreen?style=flat&logo=node-dot-js)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net)
 
@@ -37,6 +39,9 @@
 ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql)
 ![ORM](https://img.shields.io/badge/ORM-Mongoose%20and%20Entity%20Framework-blue?style=flat)
+
+### Cloud
+![Aws](https://img.shields.io/badge/-Amazon Web Services-232f3e?style=flat&logo=amazon-aws)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
