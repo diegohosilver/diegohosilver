@@ -39,7 +39,6 @@
 ![Mongo](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
 ![MySQL](https://img.shields.io/badge/-MySQL-gray?style=flat&logo=mysql)
-![ORM](https://img.shields.io/badge/ORM-Mongoose%20and%20Entity%20Framework-blue?style=flat)
 
 ### Cloud
 ![Aws](https://img.shields.io/badge/-Amazon%20Web%20Services-232f3e?style=flat&logo=amazon-aws)
