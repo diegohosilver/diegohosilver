@@ -12,27 +12,28 @@
 ## Technologies ⚡
 
 ### Languages 
-![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/-CSharp-0078D4?style=flat&logo=c-sharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-0078D4?style=flat&logo=java)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-512BD4?style=flat&logo=bootstrap)
-![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=flat&logo=vue-dot-js)
-![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs)
+![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=flat&logo=vuedotjs)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
+![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat&logo=angularjs)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-512BD4?style=flat&logo=bootstrap)
 
 ### Mobile
 ![Ionic](https://img.shields.io/badge/-Ionic-darkblue?style=flat&logo=ionic)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-darkblue?style=flat&logo=capacitor)
 
 ### Backend
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet)
 ![Express](https://img.shields.io/badge/-Express-darkgreen?style=flat&logo=express)
-![Nodejs](https://img.shields.io/badge/-NodeJS-darkgreen?style=flat&logo=node-dot-js)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net)
+![Nodejs](https://img.shields.io/badge/-NodeJS-darkgreen?style=flat&logo=nodedotjs)
 
 ### Database
 ![Mongo](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
