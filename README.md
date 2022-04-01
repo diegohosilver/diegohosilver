@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Diego Silvera de Souza</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-diegohosilver@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:diegohosilver@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-dhsdesouza-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhsdesouza/)
+[![Linkedin Badge](https://img.shields.io/badge/-diegohosilver-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhsdesouza/)
 
 - 🔭 I’m currently working as Full-Stack Software Engineer
 - 💬 I speak English, Spanish and Portuguese so feel free to reach out to me in any of those languages
