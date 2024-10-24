@@ -30,5 +30,7 @@ while alive:
     repeat()
 ```
 
+### 🗒️ Psst! Check out my [gists](https://gist.github.com/diegohosilver) too
+
 ---
 ⭐️ From [diegohosilver](https://github.com/diegohosilver)
